@@ -2,4 +2,4 @@
 
 <h1>Welcome to my website</h1>
 
-<img src='/img/car.jpeg'>
+<img src='/images/car.jpeg'>
