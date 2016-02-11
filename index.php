@@ -62,7 +62,10 @@
               <p>Bachelor of Science in Robotics Engineering from Worcester Polytechnic Institute</p>
               <p><b>Work Experiance:</b></p>
               <p>Currently Software Developer at Vantiv</p>
-              <p><b></b></p>
+              <p><b>Future Pursuit:</b></p>
+              <p>Masters of Liberal Arts in Software Engineering</p>
+              <p><b>Hobbies:</b></p>
+              <p>Ultimate Frisbee, Skiing, Traveling, MTG, Gaming, E-Sports</p>
             </div>
           </div>
       </div>
