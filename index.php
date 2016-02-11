@@ -22,7 +22,8 @@
               <icon class="glyphicon glyphicon-home"></icon>
           </a>
       </li>
-      <li><a href="#profile" role="tab" data-toggle="tab">
+      <li>
+        <a href="#profile" role="tab" data-toggle="tab">
           <i class="fa fa-user"></i> Profile
           </a>
       </li>
@@ -38,11 +39,14 @@
           ?>
         </p>
         <h4><b><u>Appendix:</u></b></h4>
-        <ul class="list-group">
-          <li class="list-group-item">Project 2</li>
-          <li class="list-group-item">Project 3</li>
-          <li class="list-group-item">Project 4</li>
-        </ul>
+        <div class="col-md-4">
+          <div class="list-group">
+            <a class="list-group-item active" href="http://p1.kushsdwa15.xyz/">Project 1</a>
+            <a class="list-group-item disabledLink" href="http://p2.kushsdwa15.xyz/">Project 2<span class="badge">Coming Soon</span></a>
+            <a class="list-group-item disabledLink" href="http://p3.kushsdwa15.xyz/">Project 3<span class="badge">Coming Soon</span></a>
+            <a class="list-group-item disabledLink" href="http://p4.kushsdwa15.xyz/">Project 4<span class="badge">Coming Soon</span></a>
+          </div>
+        </div>
       </div>
       <div class="tab-pane fade" id="profile">
           <h2>Profile</h2>

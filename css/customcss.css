@@ -10,3 +10,8 @@ body {
 img {
   margin-bottom: 12px;
 }
+
+.disabledLink {
+  pointer-events: none;
+  cursor: default;
+}
